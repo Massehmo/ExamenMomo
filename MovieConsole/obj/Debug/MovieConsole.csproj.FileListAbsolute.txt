@@ -1,0 +1,15 @@
+C:\Users\pasca\source\repos\Movies\MovieConsole\bin\Debug\MovieConsole.exe.config
+C:\Users\pasca\source\repos\Movies\MovieConsole\bin\Debug\MovieConsole.exe
+C:\Users\pasca\source\repos\Movies\MovieConsole\bin\Debug\MovieConsole.pdb
+C:\Users\pasca\source\repos\Movies\MovieConsole\bin\Debug\EntityFramework.dll
+C:\Users\pasca\source\repos\Movies\MovieConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pasca\source\repos\Movies\MovieConsole\bin\Debug\MovieDAL.dll
+C:\Users\pasca\source\repos\Movies\MovieConsole\bin\Debug\MovieDAL.pdb
+C:\Users\pasca\source\repos\Movies\MovieConsole\bin\Debug\MovieDAL.dll.config
+C:\Users\pasca\source\repos\Movies\MovieConsole\bin\Debug\EntityFramework.xml
+C:\Users\pasca\source\repos\Movies\MovieConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pasca\source\repos\Movies\MovieConsole\obj\Debug\MovieConsole.csprojAssemblyReference.cache
+C:\Users\pasca\source\repos\Movies\MovieConsole\obj\Debug\MovieConsole.csproj.CoreCompileInputs.cache
+C:\Users\pasca\source\repos\Movies\MovieConsole\obj\Debug\MovieConsole.csproj.CopyComplete
+C:\Users\pasca\source\repos\Movies\MovieConsole\obj\Debug\MovieConsole.exe
+C:\Users\pasca\source\repos\Movies\MovieConsole\obj\Debug\MovieConsole.pdb
